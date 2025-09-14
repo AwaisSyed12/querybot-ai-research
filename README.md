@@ -88,10 +88,10 @@ querybot-ai-research/
 
 ## 🖼️ Screenshots
 
-![Dashboard](screenshots/Dashboard.jpeg)  
+![Dashboard](screenshots/Dashboard.png)  
  *Main dashboard for QueryBot, featuring URL input and instant feedback*
 
-![Result](screenshots/Result_1.jpeg, Result_2.jpeg)  
+![Result](screenshots/Result_1.png, Result_2.png)  
  *Sample of AI-generated answer and anomaly detection results*
 
 ---
