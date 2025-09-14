@@ -65,7 +65,7 @@ QueryBot is an AI-powered web research tool that leverages RAG (Retrieval-Augmen
 
 4. **Run the Streamlit app**
 
- streamlit run src/app.py
+   streamlit run src/app.py
 
 ---
 
@@ -91,7 +91,8 @@ querybot-ai-research/
 ![Dashboard](screenshots/Dashboard.png)  
  *Main dashboard for QueryBot, featuring URL input and instant feedback*
 
-![Result](screenshots/Result_1.png, Result_2.png)  
+![Result](screenshots/Result_1.png)
+![Result](screenshots/Result_2.png)
  *Sample of AI-generated answer and anomaly detection results*
 
 ---
@@ -118,7 +119,7 @@ The interface displays helpful prompts, error/warning messages, and updates base
 - Sign up or log in on [Google Cloud Console](https://console.cloud.google.com/) to get an API key for Generative AI access.
 - Place your API key in a `.env` file:  
 
-GOOGLE_API_KEY=your_api_key_here
+  GOOGLE_API_KEY=your_api_key_here
 
 - **NEVER** share your actual API key or commit the `.env` file.
 
