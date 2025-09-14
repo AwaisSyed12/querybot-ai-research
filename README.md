@@ -43,15 +43,15 @@ QueryBot is an AI-powered web research tool that leverages RAG (Retrieval-Augmen
 
 1. **Clone this repository**
 
-git clone https://github.com/AwaisSyed12/querybot-ai-research.git
+ git clone https://github.com/AwaisSyed12/querybot-ai-research.git
 
-cd querybot-ai-research
+ cd querybot-ai-research
 
 2. **Install all required packages**
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
-If missing, install pip with: python -m ensurepip
+ If missing, install pip with: python -m ensurepip
 
 
 3. **Set up your Google API key (_DO NOT share publicly_)**
@@ -65,7 +65,7 @@ If missing, install pip with: python -m ensurepip
 
 4. **Run the Streamlit app**
 
-streamlit run src/app.py
+ streamlit run src/app.py
 
 ---
 
@@ -89,10 +89,10 @@ querybot-ai-research/
 ## 🖼️ Screenshots
 
 ![Dashboard](screenshots/Dashboard.jpeg)  
-*Main dashboard for QueryBot, featuring URL input and instant feedback*
+ *Main dashboard for QueryBot, featuring URL input and instant feedback*
 
 ![Result](screenshots/Result_1.jpeg, Result_2.jpeg)  
-*Sample of AI-generated answer and anomaly detection results*
+ *Sample of AI-generated answer and anomaly detection results*
 
 ---
 
