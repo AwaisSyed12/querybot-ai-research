@@ -1,0 +1,9 @@
+# Python and Streamlit project ignores
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Mac/Windows/system files
+.DS_Store
+Thumbs.db

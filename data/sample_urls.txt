@@ -1,0 +1,29 @@
+# Sample URLs for QueryBot AI Research Tool
+# Copy any of these URLs to test the application
+
+# News and Technology
+https://www.bbc.com/news/technology
+https://techcrunch.com/category/artificial-intelligence/
+https://www.reuters.com/technology/
+
+# AI Research and Articles
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://openai.com/blog/
+https://ai.google/discover/
+https://www.ibm.com/artificial-intelligence
+
+# Business and Finance
+https://www.moneycontrol.com/news/business/markets/wall-street-rises-as-tesla-soars-on-ai-optimism-11351111.html
+
+# GitHub Resources
+https://github.com/resources/articles/ai/what-are-ai-agents
+
+# Academic Sources
+https://www.nature.com/articles/d41586-023-00340-3
+
+# Usage Instructions:
+# 1. Copy 1-2 URLs from above
+# 2. Paste them into the URL input fields in the QueryBot interface
+# 3. Click "Process URLs" to extract content
+# 4. Enter your research question
+# 5. Click "Get Answer" for AI-powered insights
